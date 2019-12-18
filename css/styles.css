@@ -1,0 +1,21 @@
+#top {
+	background: blue !important;
+}
+
+#about {
+	background: #1b317c;
+	color: white;
+}
+
+#about h5, #about h4, #about p, #about h3 {
+	color: white;
+}
+
+.info-list li strong {
+	color: white;
+}
+
+
+#resume {
+	background: #1b317c;
+}
